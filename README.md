@@ -1,5 +1,5 @@
-# video-concater
-video files concats for web
+# mp4-concat
+mp4 files concats for web
 
 ## run
 ```sh
